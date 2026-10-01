@@ -1,0 +1,21 @@
+# Obsidian: this machine's open files and pane layout
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json.bak
+.obsidian/cache/
+
+# Obsidian trash
+.trash/
+
+# Operating system
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+Desktop.ini
+
+# Editor and Office lock files
+*~
+~$*
+*.tmp
+*.temp
